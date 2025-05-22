@@ -1,7 +1,7 @@
 # TeleStream
 Real-Time Telecommunication Event Streaming Using Apache Kafka
 
-## ✅ Apache Kafka Commands for Windows (Using .bat Files) && (For Kafka versions < 3.x that use ZooKeeper)
+# ✅ Apache Kafka Commands for Windows (Using .bat Files) && (For Kafka versions < 3.x that use ZooKeeper)
 
 🧱 1. Start ZooKeeper (if required)
     bin\windows\zookeeper-server-start.bat config\zookeeper.properties
