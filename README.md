@@ -32,6 +32,20 @@ Real-Time Telecommunication Event Streaming Using Apache Kafka
     bin\windows\kafka-consumer-groups.bat --bootstrap-server localhost:9092 --describe --group my-group
 
 
+# TeleStream
+**Real-Time Telecommunication Event Streaming Using Apache Kafka**
+
+---
+
+## ✅ Apache Kafka Commands for Windows (Using .bat Files)  
+**(For Kafka versions < 3.x that use ZooKeeper)**
+
+### 🧱 1. Start ZooKeeper (if required)
+```bash
+bin\windows\zookeeper-server-start.bat config\zookeeper.properties
+
+
+
 
 
 
