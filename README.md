@@ -4,7 +4,7 @@
 ---
 
 ## ✅ Apache Kafka Commands for Windows (Using `.bat` Files)  
-**(For Kafka versions < 3.x that use ZooKeeper::Scala 2.12-kafka_2.12-3.9.1.tgz (asc, sha512) Download kafka link: https://kafka.apache.org/downloads)**
+**(For Kafka versions < 3.x that use ZooKeeper::Scala 2.12-kafka_2.12-3.9.1.tgz (asc, sha512) Download link: https://kafka.apache.org/downloads)**
 
 ```bat
 :: 🧱 1. Start ZooKeeper (if required)
